@@ -23,19 +23,19 @@ Python, OS System Calls, Multithreading, Mutexes, Semaphores, Scheduling Algorit
 
 Requirements: Python 3.10+ and Linux, macOS, or WSL.
 
-# Deliverable 1 – Basic Shell
+### Deliverable 1 – Basic Shell
 cd Deliverable1
 python3 deliverable1_shell.py
 
-# Deliverable 2 – Process Scheduling
+### Deliverable 2 – Process Scheduling
 cd Deliverable2
 python3 myshell_deliverable2.py
 
-# Deliverable 3 – Memory Management and Synchronization
+### Deliverable 3 – Memory Management and Synchronization
 cd Deliverable3
 python3 myshell
 
-# Deliverable 4 – Integration and Security
+### Deliverable 4 – Integration and Security
 cd Deliverable4
 python3 myshell_deliverable4.py
 ```
